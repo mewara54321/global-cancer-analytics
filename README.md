@@ -11,10 +11,11 @@ This project analyzes global cancer patient data to uncover patterns in demograp
 - Data quality assessment performed
 - Missing values and duplicate checks completed
 - Statistical summary analysis documented
+- Data validation and consistency checks completed
 
 ## Status
-🚧 Project in progress – Data Understanding phase completed.
-Currently moving to Data Cleaning and Preprocessing.
+🚧 Project in progress – Data Validation phase completed.  
+Currently progressing to Inferential Analysis and Statistical Modeling.
 
 ## 🛠️ Tools & Technologies
 
