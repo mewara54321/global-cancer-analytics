@@ -7,6 +7,14 @@ The goal is to understand factors influencing cancer severity, survival outcomes
 
 ---
 
+---
+
+## 📷 Sample Analysis Visualization
+
+<p align="center">
+  <img src="images/project_overview.png" width="750">
+</p>
+
 ## ✅ Project Status
 ✅ Project Completed — Analysis, insights, and recommendations finalized.
 
@@ -23,26 +31,29 @@ The goal is to understand factors influencing cancer severity, survival outcomes
 ---
 
 ## 📁 Project Structure
+
+```
 global-cancer-analytics/
-
 ├── data/
+│   └── raw/
+│       └── global_cancer_patients.csv
+├── notebooks/
+│   ├── 01_data_understanding.ipynb
+│   ├── 02_data_validation.ipynb
+│   ├── 03_inferential_analysis.ipynb
+│   └── 04_insights_and_recommendations.ipynb
+└── README.md
+```
 
-│ └── raw/
 
-│    └── global_cancer_patients.csv
 
-│├── notebooks/
+---
 
-│      ├── 01_data_understanding.ipynb
+## 📂 Dataset
 
-│      ├── 02_data_validation.ipynb
+The dataset used in this project is a global cancer patient dataset obtained from Kaggle for educational and analytical purposes.
 
-│      ├── 03_inferential_analysis.ipynb
-
-│      └── 04_insights_and_recommendations.ipynb
-
-│ └── README.md
-
+It contains demographic information, lifestyle risk factors, cancer stages, treatment costs, and survival outcomes for approximately 50,000 patients across multiple countries.
 
 ---
 
@@ -86,3 +97,14 @@ The findings emphasize that higher healthcare spending alone does not guarantee 
 - Interactive dashboard development (Power BI / Tableau)
 
 ---
+
+---
+
+## 👤 Author
+
+**Pratham Mewara**  
+Data Analyst  
+
+Skills: Python | SQL | Data Analysis | Data Visualization  
+
+GitHub: [github.com/mewara54321](https://github.com/mewara54321)
