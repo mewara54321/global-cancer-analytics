@@ -1,5 +1,11 @@
 # Global Cancer Analytics
 
+📊 End-to-end healthcare analytics case study demonstrating exploratory analysis, statistical inference, and data-driven insight generation using Python.
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/mewara54321/global-cancer-analytics)
+
+
+---
 ## Project Overview
 This project analyzes global cancer patient data to uncover patterns in demographics, risk factors, treatment costs, and survival outcomes using exploratory, statistical, and inferential data analysis techniques.
 
@@ -98,7 +104,7 @@ The findings emphasize that higher healthcare spending alone does not guarantee 
 
 ---
 
----
+
 
 ## 👤 Author
 
